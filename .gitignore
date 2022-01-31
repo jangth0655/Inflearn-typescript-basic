@@ -1,3 +1,10 @@
 #history
 .history
 /history
+
+#node_modules
+/node_modules
+node_modules/
+
+#eslint
+.eslintrc.js
