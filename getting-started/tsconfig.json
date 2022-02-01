@@ -1,8 +1,8 @@
-//Typescript가 어떻게 이해할지 정의 할 수 있다.
 {
   "compilerOptions": {
     "allowJs": true,
     "checkJs": true,
     "noImplicitAny": true
-  }
+  },
+  "include": ["./src/**/*"]
 }

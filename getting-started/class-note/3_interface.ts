@@ -51,7 +51,7 @@
   }
 
   const obj: StringRegexDictionary = {
-    "3": /abc/,
+    3: /abc/,
     st: /\.css$/,
   };
 
