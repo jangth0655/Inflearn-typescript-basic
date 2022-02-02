@@ -38,7 +38,6 @@
   }
 
   function logTextLength<T extends LengthType>(text: T): T {
-    text.length;
     return text;
   }
 
@@ -56,5 +55,5 @@
   ): T {
     return itemOption;
   }
-  getShoppingItemOption("price");
+  getShoppingItemOption("stock");
 }
